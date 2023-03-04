@@ -1,0 +1,307 @@
+ID_Historico;ID_Geografia;Nome da Loja;Status;Tipo de Venda;Qtd Funcionarios
+1;693;Contoso Seattle No.1 loja;Aberto;Loja;17
+2;693;Contoso Seattle No.2 loja;Aberto;Loja;25
+3;856;Contoso Kennewick loja;Aberto;Loja;26
+4;424;Contoso Bellevue loja;Aberto;Loja;19
+5;677;Contoso Redmond loja;Aberto;Loja;33
+6;575;Contoso Yakima loja;Aberto;Loja;47
+7;838;Contoso Granger loja;Aberto;Loja;22
+8;935;Contoso Sunnyside loja;Aberto;Loja;17
+9;941;Contoso Toppenish loja;Aberto;Loja;25
+10;947;Contoso Wapato loja;Aberto;Loja;25
+11;813;Contoso Cle Elum loja;Aberto;Loja;26
+12;893;Contoso North Bend loja;Fechado;Loja;19
+13;930;Contoso Snoqualmie loja;Aberto;Loja;33
+14;825;Contoso Fall City loja;Aberto;Loja;47
+15;678;Contoso Renton loja;Aberto;Loja;22
+16;627;Contoso Everett loja;Aberto;Loja;17
+17;551;Contoso Spokane loja;Aberto;Loja;25
+18;944;Contoso Veradale loja;Aberto;Loja;26
+19;812;Contoso Cheney loja;Fechado;Loja;19
+20;824;Contoso Englewood loja;Aberto;Loja;33
+21;950;Contoso Wheat Ridge loja;Aberto;Loja;47
+22;571;Contoso Westminster loja;Aberto;Loja;22
+23;836;Contoso Grand Junction loja;Aberto;Loja;17
+24;887;Contoso New Castle loja;Aberto;Loja;25
+25;839;Contoso Greeley  No.1 loja;Aberto;Loja;25
+26;867;Contoso Loveland loja;Aberto;Loja;26
+27;859;Contoso Lafayette loja;Aberto;Loja;19
+28;809;Contoso Castle Rock loja;Aberto;Loja;33
+29;927;Contoso Sedalia loja;Fechado;Loja;47
+30;829;Contoso Fort Collins loja;Aberto;Loja;22
+31;839;Contoso Greeley No.2 loja;Aberto;Loja;17
+32;877;Contoso Milliken loja;Aberto;Loja;25
+33;799;Contoso Berthoud loja;Aberto;Loja;26
+34;818;Contoso Denver No.1 loja;Aberto;Loja;26
+35;818;Contoso Denver No.2 loja;Aberto;Loja;19
+36;818;Contoso Denver No.3 loja;Aberto;Loja;33
+37;803;Contoso Boulder loja;Aberto;Loja;47
+38;940;Contoso Thornton loja;Aberto;Loja;22
+39;865;Contoso Littleton loja;Aberto;Loja;17
+40;790;Contoso Aurora loja;Aberto;Loja;25
+41;904;Contoso Parker loja;Aberto;Loja;26
+42;840;Contoso Green Bay loja;Aberto;Loja;19
+43;786;Contoso Appleton loja;Aberto;Loja;33
+44;874;Contoso Menasha loja;Aberto;Loja;47
+45;901;Contoso Oshkosh loja;Aberto;Loja;22
+46;827;Contoso Fond du Lac loja;Aberto;Loja;17
+47;878;Contoso Milwaukee No.1 loja;Aberto;Loja;25
+48;878;Contoso Milwaukee No.2 loja;Fechado;Loja;25
+49;878;Contoso Milwaukee No.3 loja;Aberto;Loja;26
+50;949;Contoso Waukesha No.1 loja;Aberto;Loja;19
+51;918;Contoso Racine No.1 loja;Aberto;Loja;33
+52;806;Contoso Burlington loja;Aberto;Loja;47
+53;821;Contoso East Troy loja;Aberto;Loja;22
+54;949;Contoso Waukesha No.2 loja;Aberto;Loja;17
+55;835;Contoso Germantown loja;Aberto;Loja;25
+57;913;Contoso Port Washington loja;Aberto;Loja;26
+58;928;Contoso Sheboygan loja;Aberto;Loja;19
+59;871;Contoso Manitowoc loja;Aberto;Loja;33
+60;870;Contoso Madison loja;Aberto;Loja;47
+61;898;Contoso Oregon loja;Aberto;Loja;22
+62;934;Contoso Stoughton loja;Fechado;Loja;17
+63;822;Contoso Edgerton loja;Aberto;Loja;25
+64;828;Contoso Fort Atkinson loja;Aberto;Loja;26
+65;918;Contoso Racine No.2 loja;Aberto;Loja;19
+66;849;Contoso Houston No.1 loja;Aberto;Loja;33
+67;849;Contoso Houston No.2 loja;Aberto;Loja;47
+68;849;Contoso Houston No.3 loja;Aberto;Loja;22
+69;849;Contoso Houston No.4 loja;Aberto;Loja;17
+70;876;Contoso Midland loja;Aberto;Loja;25
+71;924;Contoso Russellville loja;Aberto;Loja;25
+72;879;Contoso Minden loja;Aberto;Loja;26
+73;929;Contoso Shreveport loja;Aberto;Loja;19
+74;872;Contoso Marshall loja;Aberto;Loja;33
+75;866;Contoso Longview loja;Aberto;Loja;47
+76;798;Contoso Beaumont No.1 loja;Aberto;Loja;22
+77;897;Contoso Orange loja;Aberto;Loja;17
+78;798;Contoso Beaumont No.2 loja;Aberto;Loja;25
+79;579;Contoso Baytown loja;Aberto;Loja;26
+80;858;Contoso La Porte loja;Aberto;Loja;26
+81;793;Contoso Bacliff loja;Aberto;Loja;19
+82;939;Contoso Texas City loja;Aberto;Loja;33
+83;906;Contoso Pasadena loja;Aberto;Loja;47
+84;851;Contoso Humble loja;Fechado;Loja;22
+85;933;Contoso Spring loja;Aberto;Loja;17
+86;791;Contoso Austin loja;Aberto;Loja;25
+87;925;Contoso San Antonio loja;Aberto;Loja;26
+88;453;Contoso Cedar Park loja;Aberto;Loja;19
+89;923;Contoso Round Rock loja;Aberto;Loja;33
+90;815;Contoso Dallas loja;Aberto;Loja;47
+91;834;Contoso Georgetown loja;Aberto;Loja;22
+92;845;Contoso Hillsboro loja;Aberto;Loja;17
+93;787;Contoso Arlington loja;Aberto;Loja;25
+94;837;Contoso Grand Prairie loja;Aberto;Loja;25
+95;819;Contoso Desoto loja;Aberto;Loja;26
+96;919;Contoso Richardson loja;Aberto;Loja;19
+97;863;Contoso Lewisville loja;Aberto;Loja;33
+98;817;Contoso Denton loja;Aberto;Loja;47
+99;831;Contoso Fort Worth loja;Aberto;Loja;22
+100;910;Contoso Plano loja;Aberto;Loja;17
+101;875;Contoso Miami No.1 loja;Aberto;Loja;17
+102;875;Contoso Miami No.2 loja;Aberto;Loja;25
+103;853;Contoso Jacksonville loja;Aberto;Loja;26
+104;937;Contoso Tallahassee No.1 loja;Aberto;Loja;19
+105;937;Contoso Tallahassee No.2 loja;Aberto;Loja;33
+107;926;Contoso Sebring loja;Aberto;Loja;22
+108;860;Contoso Lakeland loja;Aberto;Loja;17
+109;830;Contoso Fort Lauderdale loja;Aberto;Loja;25
+110;899;Contoso Orlando loja;Aberto;Loja;25
+111;938;Contoso Tampa loja;Aberto;Loja;26
+112;857;Contoso Key West loja;Fechado;Loja;19
+113;807;Contoso Cape Canaveral loja;Aberto;Loja;33
+114;782;Contoso Albany loja;Aberto;Loja;47
+115;890;Contoso New York No.1 loja;Aberto;Loja;22
+116;922;Contoso Rochester No.1 loja;Aberto;Loja;17
+117;890;Contoso New York No.2 loja;Aberto;Loja;25
+118;936;Contoso Syracuse loja;Aberto;Loja;26
+119;805;Contoso Buffalo loja;Fechado;Loja;19
+120;911;Contoso Plattsburgh loja;Aberto;Loja;33
+121;804;Contoso Brooklyn loja;Aberto;Loja;47
+122;902;Contoso Oswego loja;Aberto;Loja;22
+123;852;Contoso Ithaca loja;Aberto;Loja;17
+124;922;Contoso Rochester No.2 loja;Aberto;Loja;25
+125;916;Contoso Queens loja;Aberto;Loja;25
+126;823;Contoso Elmira loja;Aberto;Loja;26
+127;912;Contoso Poestenkill loja;Aberto;Loja;19
+128;943;Contoso Trenton No.1 loja;Aberto;Loja;33
+129;943;Contoso Trenton No.2 loja;Fechado;Loja;47
+130;891;Contoso Newark No.1 loja;Aberto;Loja;22
+131;891;Contoso Newark No.2 loja;Aberto;Loja;17
+132;854;Contoso Jersey City loja;Aberto;Loja;25
+133;908;Contoso Paterson loja;Aberto;Loja;26
+134;814;Contoso Clifton loja;Aberto;Loja;26
+135;820;Contoso East Orange loja;Aberto;Loja;19
+136;907;Contoso Passaic loja;Aberto;Loja;33
+137;797;Contoso Bayonne loja;Aberto;Loja;47
+138;945;Contoso Vineland loja;Aberto;Loja;22
+139;886;Contoso New Brunswick loja;Aberto;Loja;17
+140;842;Contoso Hackensack loja;Aberto;Loja;25
+141;788;Contoso Atlantic City loja;Aberto;Loja;26
+142;880;Contoso Montclair loja;Aberto;Loja;19
+143;847;Contoso Hoboken loja;Aberto;Loja;33
+144;882;Contoso Morristown loja;Aberto;Loja;47
+145;808;Contoso Cape May loja;Aberto;Loja;22
+146;802;Contoso Boston loja;Aberto;Loja;17
+147;952;Contoso Worcester No.1 loja;Aberto;Loja;25
+148;952;Contoso Worcester No.2 loja;Fechado;Loja;25
+149;885;Contoso New Bedford loja;Aberto;Loja;26
+150;789;Contoso Attleboro loja;Aberto;Loja;19
+151;868;Contoso Lowell loja;Aberto;Loja;33
+152;861;Contoso Leominster loja;Aberto;Loja;47
+153;846;Contoso Hingham loja;Aberto;Loja;22
+154;917;Contoso Quincy loja;Aberto;Loja;17
+155;832;Contoso Framingham loja;Aberto;Loja;25
+156;449;Contoso Cambridge loja;Aberto;Loja;26
+157;931;Contoso Somerville loja;Aberto;Loja;26
+158;844;Contoso Haverhill loja;Aberto;Loja;19
+159;869;Contoso Lynn loja;Aberto;Loja;33
+160;895;Contoso Northampton loja;Aberto;Loja;47
+161;848;Contoso Holyoke loja;Aberto;Loja;22
+162;909;Contoso Pittsfield loja;Fechado;Loja;17
+163;826;Contoso Falmouth loja;Aberto;Loja;25
+164;914;Contoso Provincetown loja;Aberto;Loja;26
+165;883;Contoso Nantucket loja;Aberto;Loja;19
+166;795;Contoso Bangor loja;Aberto;Loja;33
+167;796;Contoso Bar Harbor loja;Aberto;Loja;47
+168;855;Contoso Kennebunkport loja;Aberto;Loja;22
+169;862;Contoso Lewiston loja;Aberto;Loja;17
+170;900;Contoso Orono loja;Aberto;Loja;25
+171;932;Contoso South Portland loja;Aberto;Loja;25
+172;843;Contoso Hartford loja;Aberto;Loja;26
+173;801;Contoso Bridgeport loja;Aberto;Loja;19
+174;948;Contoso Waterbury loja;Aberto;Loja;33
+175;896;Contoso Old Saybrook loja;Aberto;Loja;47
+176;816;Contoso Darien loja;Aberto;Loja;22
+177;888;Contoso New Haven loja;Aberto;Loja;17
+178;864;Contoso Litchfield County loja;Aberto;Loja;25
+179;889;Contoso New London loja;Aberto;Loja;26
+180;892;Contoso Norfolk loja;Aberto;Loja;26
+181;946;Contoso Virginia Beach loja;Aberto;Loja;19
+182;951;Contoso Winchester loja;Aberto;Loja;33
+183;784;Contoso Anchorage loja;Aberto;Loja;47
+184;783;Contoso Alexandria loja;Fechado;Loja;22
+185;921;Contoso Roanoke loja;Aberto;Loja;17
+186;811;Contoso Charlottesville loja;Aberto;Loja;25
+187;833;Contoso Fredericksburg loja;Aberto;Loja;26
+188;873;Contoso Martinsville loja;Aberto;Loja;19
+189;841;Contoso Greenville loja;Aberto;Loja;33
+190;810;Contoso Charleston loja;Aberto;Loja;47
+191;785;Contoso Annapolis loja;Aberto;Loja;22
+192;794;Contoso Baltimore loja;Aberto;Loja;17
+193;850;Contoso Howard loja;Aberto;Loja;25
+194;920;Contoso Ridgely loja;Aberto;Loja;25
+195;915;Contoso Queen Anne's County loja;Aberto;Loja;26
+196;905;Contoso Parkville loja;Aberto;Loja;19
+197;792;Contoso Back River loja;Aberto;Loja;33
+198;835;Contoso North Harford loja;Aberto;Loja;47
+199;800;Contoso North America Online loja;Aberto;Online;325
+200;894;Contoso Catálogo loja;Aberto;Catálogo;120
+201;506;Contoso London loja;Aberto;Loja;17
+202;748;Contoso Edinburgh loja;Aberto;Loja;25
+203;751;Contoso Glasgow loja;Aberto;Loja;26
+204;576;Contoso York loja;Aberto;Loja;78
+205;742;Contoso Carlisle loja;Aberto;Loja;23
+206;761;Contoso Manchester loja;Aberto;Loja;11
+207;755;Contoso Lancashire loja;Aberto;Loja;36
+208;781;Contoso West Yorkshire loja;Aberto;Loja;90
+209;738;Contoso Baildon loja;Aberto;Loja;32
+210;743;Contoso Cheshire loja;Aberto;Loja;
+211;774;Contoso Stockport loja;Aberto;Loja;34
+212;651;Contoso Liverpool loja;Aberto;Loja;64
+213;753;Contoso Knotty Ash loja;Aberto;Loja;24
+214;501;Contoso Leeds loja;Aberto;Loja;25
+215;529;Contoso Paris loja;Aberto;Loja;12
+216;762;Contoso Marseille loja;Aberto;Loja;13
+217;759;Contoso Lyon loja;Aberto;Loja;15
+218;777;Contoso Toulouse loja;Aberto;Loja;23
+219;767;Contoso Nice loja;Aberto;Loja;32
+220;766;Contoso Nantes loja;Aberto;Loja;11
+221;775;Contoso Strasbourg loja;Aberto;Loja;10
+222;771;Contoso Roma loja;Aberto;Loja;43
+223;779;Contoso Venezia loja;Aberto;Loja;11
+224;749;Contoso Firenze loja;Aberto;Loja;45
+225;776;Contoso Torino loja;Aberto;Loja;24
+226;763;Contoso Milan loja;Aberto;Loja;23
+227;884;Contoso Naples loja;Aberto;Loja;13
+228;586;Contoso Berlin loja;Aberto;Loja;13
+230;754;Contoso koln No.2 loja;Aberto;Loja;25
+231;752;Contoso Hofheim loja;Aberto;Loja;25
+232;754;Contoso koln No.1 loja;Aberto;Loja;35
+233;756;Contoso Landstuhl loja;Aberto;Loja;21
+234;747;Contoso Dusseldorf loja;Aberto;Loja;24
+235;770;Contoso Ramstein loja;Aberto;Loja;15
+236;739;Contoso Baumholder loja;Aberto;Loja;28
+237;750;Contoso Giebelstadt loja;Aberto;Loja;15
+238;769;Contoso obamberg loja;Aberto;Loja;29
+239;765;Contoso Munich loja;Aberto;Loja;18
+240;736;Contoso Amsterdam loja;Aberto;Loja;26
+241;745;Contoso Copenhagen loja;Aberto;Loja;25
+242;773;Contoso Stockholm loja;Aberto;Loja;33
+243;760;Contoso Madrid loja;Aberto;Loja;35
+244;758;Contoso Ljubljana loja;Aberto;Loja;36
+245;741;Contoso Bucharest loja;Aberto;Loja;25
+246;740;Contoso Berne loja;Aberto;Loja;53
+247;780;Contoso Warsaw loja;Aberto;Loja;15
+248;778;Contoso Valletta loja;Aberto;Loja;42
+249;746;Contoso Dublin loja;Aberto;Loja;55
+250;737;Contoso Athens loja;Aberto;Loja;15
+251;728;Contoso Singapore loja;Aberto;Loja;27
+252;713;Contoso Canberra loja;Aberto;Loja;28
+253;558;Contoso Sydney No.1 loja;Aberto;Loja;20
+254;734;Contoso Yerevan loja;Aberto;Loja;15
+255;723;Contoso New Delhi loja;Aberto;Loja;29
+256;721;Contoso Mumbai loja;Aberto;Loja;35
+257;718;Contoso Kolkata loja;Aberto;Loja;35
+258;731;Contoso Thimphu No.1 loja;Aberto;Loja;35
+259;716;Contoso Hong Kong No.1 loja;Aberto;Loja;35
+260;730;Contoso Tehran No.1 loja;Aberto;Loja;35
+261;714;Contoso Damascus No.1 loja;Aberto;Loja;35
+262;709;Contoso Bangkok No.1 loja;Aberto;Loja;62
+263;764;Contoso Moscow  No.1 loja;Aberto;Loja;65
+264;708;Contoso Ashgabat No.1 loja;Aberto;Loja;68
+265;717;Contoso Islamabad No.1 loja;Aberto;Loja;71
+267;732;Contoso Tokyo No.1 loja;Aberto;Loja;68
+268;732;Contoso Tokyo No.2 loja;Aberto;Loja;68
+269;735;Contoso Yokohama loja;Aberto;Loja;77
+270;724;Contoso Osaka No.1 loja;Aberto;Loja;80
+271;722;Contoso Nagoya loja;Aberto;Loja;50
+272;725;Contoso Sapporo loja;Aberto;Loja;50
+273;719;Contoso Kyoto loja;Aberto;Loja;50
+274;726;Contoso Seoul loja;Aberto;Loja;50
+275;712;Contoso Busan loja;Aberto;Loja;50
+276;711;Contoso Bishkek loja;Aberto;Loja;50
+277;727;Contoso Shanghai No.1 loja;Aberto;Loja;95
+278;733;Contoso Urumqi loja;Aberto;Loja;50
+279;710;Contoso Beijing loja;Aberto;Loja;86
+280;715;Contoso Guangzhou loja;Aberto;Loja;131
+281;727;Contoso Shanghai No.2 loja;Aberto;Loja;95
+282;903;Contoso Ottawa No.1 loja;Aberto;Loja;95
+283;903;Contoso Ottawa No.2 loja;Aberto;Loja;95
+284;942;Contoso Toronto No.1 loja;Aberto;Loja;95
+285;942;Contoso Toronto No.2 loja;Aberto;Loja;95
+286;942;Contoso Toronto No.3 loja;Aberto;Loja;95
+287;881;Contoso Montreal No.1 loja;Aberto;Loja;95
+288;881;Contoso Montreal No.2 loja;Aberto;Loja;95
+289;562;Contoso Vancouver  No.1 loja;Aberto;Loja;95
+290;562;Contoso Vancouver  No.2 loja;Aberto;Loja;95
+291;598;Contoso Calgary  loja;Aberto;Loja;95
+292;731;Contoso Thimphu No.2 loja;Aberto;Loja;95
+293;716;Contoso Hong Kong No.2 loja;Aberto;Loja;95
+294;730;Contoso Tehran No.2 loja;Aberto;Loja;95
+295;714;Contoso Damascus No.2 loja;Aberto;Loja;95
+296;709;Contoso Bangkok No.2 loja;Aberto;Loja;95
+297;764;Contoso Moscow  No.2 loja;Aberto;Loja;95
+298;708;Contoso Ashgabat  No.2 loja;Aberto;Loja;95
+299;717;Contoso Islamabad  No.2 loja;Aberto;Loja;95
+300;558;Contoso Sydney  No.2 loja;Aberto;Loja;95
+301;724;Contoso Osaka No.2 loja;Aberto;Loja;95
+302;729;Contoso Taipei  loja;Aberto;Loja;95
+303;757;Contoso Lisbon loja;Aberto;Loja;95
+304;772;Contoso Saint Petersburg loja;Aberto;Loja;95
+305;768;Contoso Nizhny Novgorod loja;Aberto;Loja;95
+306;586;Contoso Europe Online loja;Aberto;Online;7
+307;710;Contoso Asia Online loja;Aberto;Online;8
+308;693;Contoso North America Revendedora;Aberto;Revendedora;15
+309;529;Contoso Europe Revendedora;Aberto;Revendedora;12
+310;710;Contoso Asia Revendedora;Aberto;Revendedora;17
